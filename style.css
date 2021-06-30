@@ -39,3 +39,9 @@ div h1 {
     right: 3em;
     top: 2px;
 }
+/* section 2 */
+.section2{
+    background-color: #fb3b49;
+    height: 400px;
+    color: white;
+}
